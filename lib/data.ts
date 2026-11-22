@@ -22,8 +22,8 @@ export const about = [
 ];
 
 export const stats = [
-  { value: "7", label: "Proyek yang telah saya selesaikan" },
-  { value: "6+", label: "Bahasa dan framework yang saya kuasai" },
+  { value: "Proyek", label: "7" },
+  { value: "Bahasa dan framework", label: "6+" },
   { value: "Fullstack Developer", label: "Dari analisis kebutuhan hingga aplikasi siap digunakan" },
   { value: "Status", label: "Terbuka untuk proyek baru" },
 ];
